@@ -2,7 +2,7 @@
 # 原圖
 ![原圖](photo/大頭照.jpg)
 # 生成圖
-! [生成圖](![alt text](photo/ComfyUI_temp_kixzf_00006_.png))
+! [生成圖](photo/ComfyUI_temp_kixzf_00006_.png)
 # 工作流程
 ! [流程圖](![alt text](<photo/螢幕擷取畫面 2026-10-18 143126.png>))
 
