@@ -1,1 +1,3 @@
-# comfy-Generate-Results
+# confy 圖像生成
+## 原圖 
+![原圖](大頭照.jpg)
