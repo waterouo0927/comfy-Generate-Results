@@ -1,10 +1,10 @@
 # confy 圖像生成
 # 原圖
-![原圖](photo/大頭照.jpg)
+![原圖](photo/photo 02.jpg)
 # 生成圖
-! [生成圖](photo/ComfyUI_temp_kixzf_00006_.png)
+! [生成圖](photo/photo 01.png)
 # 工作流程
-! [流程圖](![alt text](<photo/螢幕擷取畫面 2026-10-18 143126.png>))
+! [流程圖](photo/photo 03.png)
 
 
 ## 正向提示詞
