@@ -2,7 +2,7 @@
 # 原圖
 ![原圖](photo/photo 02.jpg)
 # 生成圖
-! [生成圖](photo/photo 01.png)
+! [生成圖](![alt text](<photo/photo 01.png>))
 # 工作流程
 ! [流程圖](photo/photo 03.png)
 
